@@ -1,7 +1,10 @@
 [package]
 name = "mqtt-procmacro"
-version = "0.1.0"
+version = "1.0.0"
 edition = "2018"
+authors = ["Johannes Draaijer <johannes.draaijer@mobilaris.se>", "Kristoffer Ödmark <kristoffer.odmark@mobilaris.se>"]
+license = "MIT"
+description = "procmacro, ignore"
 
 [lib]
 proc-macro = true

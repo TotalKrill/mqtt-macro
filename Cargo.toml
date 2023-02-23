@@ -2,6 +2,9 @@
 name = "mqtt_macro"
 version = "0.1.0"
 edition = "2018"
+authors = ["Johannes Draaijer <johannes.draaijer@mobilaris.se>", "Kristoffer Ödmark <kristoffer.odmark@mobilaris.se>"]
+license = "MIT"
+description = "MqttItem trait, that helps with defining topics and json payloads for MQTT broker usage"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
